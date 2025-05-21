@@ -1,2 +1,2 @@
-# Reposit-rio-Matheus-Richadi-e-Vitor-Israel
-atividades
+# Matematica-II-3C
+Repositório das aulas de Matemática II.
